@@ -1,6 +1,6 @@
 # Lab8_Starter
 
-Name: 
+Name: Yujie Zhang A14751673
 
 
 ## Check your understanding q's (FILL OUT)
@@ -41,3 +41,18 @@ beforeAll(async () => {
 ```
 
 
+
+
+##  The screenshot of my tests results from running `npm test ./__tests__/sum.test.js`  and  `npm test ./__tests__/router.test.js`: 
+
+![](./screenshots_of_all_tests/sum_test_js_and_router_test_js.png)
+
+
+
+## The screenshot of my test result from running `npm test ./__tests__/lab8.test.js`: 
+
+![](./screenshots_of_all_tests/lab8_test_js.png)
+
+
+
+The screenshots files are inside [./screenshots_of_all_tests](./screenshots_of_all_tests). 
